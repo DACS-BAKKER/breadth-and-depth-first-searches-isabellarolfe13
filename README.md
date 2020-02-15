@@ -17,6 +17,7 @@ breadth-and-depth-first-searches-isabellarolfe13 created by GitHub Classroom
   (fixed my Breadth from last year and improved GUI errors)
   Depth First Search
   1) Run MazeRunner.java (files needed Location.java, Node.java, Stack.java)
+  
   Breadth First Search
   1) Run MazeRunnerBreath.java (files needed Location.java, NodeBreath.java, Queue.java)
   # MAZE BOARD FILES
