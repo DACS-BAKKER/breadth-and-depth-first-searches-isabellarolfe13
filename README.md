@@ -15,6 +15,7 @@ breadth-and-depth-first-searches-isabellarolfe13 created by GitHub Classroom
    
   # Maze 
   (fixed my Breadth from last year and improved GUI errors)
+  
   Depth First Search
   1) Run MazeRunner.java (files needed Location.java, Node.java, Stack.java)
   
